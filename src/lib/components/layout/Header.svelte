@@ -1,4 +1,4 @@
-<header layout p="4">
+<header layout>
 	<a href="/" no-underline>
 		<h1 text="xl sm:2xl orange-600">sveltekit-uno</h1>
 	</a>
