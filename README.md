@@ -1,9 +1,5 @@
 # sveltekit-uno
 
-<!-- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/sveltekit-uno) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/sveltekit-uno) -->
-
-> ⚠️ [WIP]
-
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/sveltekit-uno) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/sveltekit-uno)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sozonome/sveltekit-uno)
@@ -36,7 +32,7 @@ npx degit sozonome/sveltekit-uno <YOUR_APP_NAME>
 Then, run the development server:
 
 ```bash
-pnpm dev
+yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
